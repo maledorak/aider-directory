@@ -1,6 +1,8 @@
-# aider-directory (aider-chat cookbook)
+# aider-directory ([aider.chat](https://aider.chat) cookbook)
 
-Examples and guides for using the aider-chat codegen assistant
+(Work in progress)
+
+Examples and guides for using the [aider.chat](https://aider.chat) codegen assistant
 
 ## Utilities
 
